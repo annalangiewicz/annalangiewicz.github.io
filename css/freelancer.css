@@ -478,3 +478,7 @@ footer .footer-below {
     display: none;
     opacity: 0;
 }
+
+.frontend {
+    font-size: 20px;
+}
