@@ -476,3 +476,8 @@ footer .footer-below {
 .frontend {
     font-size: 20px;
 }
+
+a:hover{
+    letter-spacing: 1px;
+    -webkit-transition: 0.5s;
+}
